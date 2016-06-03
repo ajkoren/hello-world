@@ -1,4 +1,5 @@
 # hello-world
 Playing with Github.
 
-Actually, trying it out.
+Actually, trying out Github. 
+First impression: I think it's ok.
