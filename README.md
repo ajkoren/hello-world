@@ -1,2 +1,4 @@
 # hello-world
-Playing with Github
+Playing with Github.
+
+Actually, trying it out.
